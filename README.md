@@ -1,4 +1,4 @@
-#SMART HOME AND HEALTH CARE SYSTEM
+# SMART HOME AND HEALTH CARE SYSTEM
 The project is created in python using tkinter module and mqtt protocol
 To initialize the project you install to tkinter  and mqtt
 After installing mqtt run command 'mosquitto' on the same folder where mqtt is installed
